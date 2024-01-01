@@ -1,1 +1,1 @@
-Other to-do list planners with features i wanted were paid services so i decided to just make one with the features i wanted with things i learned from 1331
+Other to-do list planners with features i wanted were paid services so i decided to just make one with the features i wanted with things i learned from 1331. Would be great if it's GUI but uses a shell interface instead
